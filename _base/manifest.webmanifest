@@ -1,0 +1,7 @@
+{
+  "name": "【公式】亀の井ホテル 熱海",
+  "icons": [
+    { "src": "/atami/favicon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/atami/favicon-512.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}
